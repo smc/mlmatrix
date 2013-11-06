@@ -1,0 +1,11 @@
+/*basic reset*/
+* {
+	margin: 0; padding: 0;
+}
+/*adding a black bg to the body to make things clearer*/
+body {
+	background: black;
+}
+canvas {
+	display: block;
+}
