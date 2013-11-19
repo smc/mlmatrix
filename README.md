@@ -3,6 +3,11 @@ mlmatrix
 
 Malayalam Matrix using HTML5 Canvas
 
+Demo
+========
+
+http://thottingal.in/projects/js/matrix.html
+
 Credits
 =======
 
